@@ -2,4 +2,5 @@
 Scripts de automatização
 
 gerador de ficha
-faz uma fica de rpg com valores ,classes e atributos aleatorios.
+
+faz uma fichaa de rpg com valores ,classes e atributos aleatorios.
